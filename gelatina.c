@@ -1,5 +1,4 @@
 #include <stdlib.h>
-#include "gelatina.h"
 
 ESTADO *inicializar_estado() {
     ESTADO* estado = (ESTADO*) malloc( sizeof(ESTADO) );
